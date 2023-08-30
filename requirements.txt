@@ -1,0 +1,7 @@
+viktor==14.4.0
+numpy
+pandas
+scipy
+calplot
+geopy
+plotly
